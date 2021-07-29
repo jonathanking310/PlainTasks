@@ -1,7 +1,8 @@
-{
-  "open_tasks_bullet": "☐", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — | ≡ | → | › | [ ]
-  "done_tasks_bullet": "✔", // options: + | ✓ | ✔ | √ | [x]
+{ // C:\Users\leanj\AppData\Roaming\Sublime Text 3\Packages\PlainTasks
+  "open_tasks_bullet": "❑", // options: - | ❍ | ❑ | ■ | □ | ☐ | ▪ | ▫ | – | — | ≡ | → | › | [ ]
+  "done_tasks_bullet": "✓", // options: + | ✓ | ✔ | √ | 😎 | [x]
   "cancelled_tasks_bullet": "✘", // options: x | ✘ | [-]
+  //😵🤙🤘🤞👌👍👎✋👊✊👋🤟🤝🙏🗑⌛⏳⏰🚩🏁⚡🔥❤❌⭕❎✅☑✖➖💲🔴🟡🟢🟥🟨🟩⚪⬛⬜🔳🔲◉◎🔘/⚪
   "before_tasks_bullet_margin": 1,
   "date_format": "(%y-%m-%d %H:%M)",
   "done_tag": true, // related to @cancelled as well
@@ -12,8 +13,9 @@
 
   "bar_empty": "☐", // empty cell for progress-bar in status-bar, for more details see Custom Statistics in README
 
-  "color_scheme": "Packages/PlainTasks/tasks.hidden-tmTheme",
+  "color_scheme": "Packages/PlainTasks/tasks-solarized-dark.hidden-tmTheme",
     // other bundled schemes:
+    //   Packages/PlainTasks/tasks.hidden-tmTheme
     //   Packages/PlainTasks/tasks-dark.hidden-tmTheme
     //   Packages/PlainTasks/tasks-eighties-colored.hidden-tmTheme
     //   Packages/PlainTasks/tasks-eighties-dark.hidden-tmTheme
